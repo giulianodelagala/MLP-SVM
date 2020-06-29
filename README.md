@@ -1,2 +1,2 @@
 # MLP-SVM
-Implementacion Multilayer Perceptron y Suppor Vector Machine
+Implementacion Multilayer Perceptron MLP y Support Vector Machine SVM
